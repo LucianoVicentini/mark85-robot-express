@@ -1,0 +1,9 @@
+logs
+.pabotsuitnames
+__pycache__
+.vscode/
+log/
+node_modules/
+output.xml
+playwright-log-1717549463832815400.txt
+playwright-log.txt
